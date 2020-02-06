@@ -41,7 +41,7 @@
         background-color: #ffffff;
         display: table-cell;
         padding: 25px;
-        padding-top: 3%;
+        padding-top: 2%;
         float: left;
         margin-left: 220px;
         
@@ -69,7 +69,7 @@
     .container {
         position: absolute;
         padding: 20px;
-        height: 45vh;
+        height: 55vh;
         width: 960px;
         background-color: #ffffff;
         top: 50%;
